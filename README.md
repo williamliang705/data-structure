@@ -16,7 +16,7 @@
 ## 常用的資料結構
 
 - 堆疊 Stack
-- 佇列 Queue
+- [佇列 Queue](./queue.md)
 - 陣列 Array
 - 連結串列 Linked List
 - 樹 Tree
